@@ -1,4 +1,5 @@
 import _ from  'lodash';
 import 'font-awesome/css/font-awesome.min.css';
 import './style.css';
-
+import { fetchShowImages } from './modules/fetchapi';
+import { displayImages } from './modules/displayImages';
